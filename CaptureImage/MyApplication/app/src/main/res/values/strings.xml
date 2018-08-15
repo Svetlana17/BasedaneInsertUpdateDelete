@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="insert">insert</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="error">error</string>
+</resources>
